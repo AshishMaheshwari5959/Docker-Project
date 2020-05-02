@@ -2,7 +2,7 @@
 # I have made Docker Helper Guide - TUI
 This is a helper guide to Docker. Anyone can access this guide by opening Docker Project folder and then running Docker.py. Then using this TUI you can freely access all the services and configuration of Docker. 
 
-# Short Intro to our project……
+# Short Intro to project……
 We have made this project for launching a web server and my-sql server. We have linked our webpages to database. In this webpage we have created Login Page and our login details in database. Just only we have to run a command docker-compose up -d by full docker configuration.
 
 # Some info how we have configured docker
