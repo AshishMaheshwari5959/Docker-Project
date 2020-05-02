@@ -5,7 +5,7 @@ This is a helper guide to Docker. Anyone can access this guide by opening Docker
 # Short Intro to our project……
 We have made this project for launching a web server and my-sql server. We have linked our webpages to database. In this webpage we have created Login Page and our login details in database. Just only we have to run a command docker-compose up -d by full docker configuration.
 
-# Some info how we have configure docker
+# Some info how we have configured docker
 @ Install docker and docker-compose                   
 @ Then installs centos: 7 docker image                
 @ Now we will start configuring one container                 
@@ -17,3 +17,14 @@ We have made this project for launching a web server and my-sql server. We have 
 @ And run by configuring environments                   
 @ Now we have to configure docker-compose file                  
 @ And we have to run only docker-compose file               
+
+# Softwares & Platforms used
+@ Redhat LINUX          
+@ Oracle Virtual Box          
+@ Python3         
+
+# Scope of Improvements
+@ Using public IP
+@ Configuring webserver and database more efficiently
+
+THANK YOU VIMAL SIR AND IIEC RISE FOR SUCH EMPOWERING KNOWLEDGE AND GUIDANCE
