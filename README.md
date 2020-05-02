@@ -6,7 +6,7 @@ This is a helper guide to Docker. Anyone can access this guide by opening Docker
 We have made this project for launching a web server and my-sql server. We have linked our webpages to database. In this webpage we have created Login Page and our login details in database. Just only we have to run a command docker-compose up -d by full docker configuration.
 
 # Some info how we have configure docker
-@ Install docker and docker-compose 
+@ Install docker and docker-compose \n
 @ Then installs centos: 7 docker image
 @ Now we will start configuring one container 
 @ Install apache httpd server
